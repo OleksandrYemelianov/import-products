@@ -1,0 +1,22 @@
+{
+    "name": "oleksandryemelianov/import-products",
+    "description": "Import of products into Shopify shop",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Oleksandr Yemelianov",
+            "email": "yemelianov.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "version": "1.0.0"
+}

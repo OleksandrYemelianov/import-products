@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Apple iPhone 16 Pro Max",
+        "sku": "IPH16PM-DTI-256",
+        "description": "Новый Apple iPhone 16 Pro Max с прочным титановым корпусом и суперкамерой.",
+        "price": 1299,
+        "attributes": {
+            "color": "Desert Titanium",
+            "memory": "256 GB"
+        },
+        "stock": 10,
+        "image": "iphone16pm_desert_256.png"
+    },
+    {
+        "name": "Apple iPhone 16 Pro Max",
+        "sku": "IPH16PM-BTI-1TB",
+        "description": "Новый Apple iPhone 16 Pro Max с прочным титановым корпусом и суперкамерой.",
+        "price": 1699,
+        "attributes": {
+            "color": "Black Titanium",
+            "memory": "1 TB"
+        },
+        "stock": 8,
+        "image": "iphone16pm_black_1tb.png"
+    },
+    {
+        "name": "Apple iPhone 15 Pro Max",
+        "sku": "IPH15PM-BTI-512",
+        "description": "Apple iPhone 15 Pro Max с мощным процессором и профессиональной камерой.",
+        "price": 1199,
+        "attributes": {
+            "color": "Blue Titanium",
+            "memory": "512 GB"
+        },
+        "stock": 12,
+        "image": "iphone15pm_blue_512.png"
+    },
+    {
+        "name": "Apple iPhone 15 Pro Max",
+        "sku": "IPH15PM-NTI-1TB",
+        "description": "Apple iPhone 15 Pro Max с мощным процессором и профессиональной камерой.",
+        "price": 1499,
+        "attributes": {
+            "color": "Natural Titanium",
+            "memory": "1 TB"
+        },
+        "stock": 5,
+        "image": "iphone15pm_natural_1tb.png"
+    },
+    {
+        "name": "Apple iPhone 13 128GB",
+        "sku": "IPH13-128-MID",
+        "description": "Apple iPhone 13 с новым дизайном и улучшенным временем автономной работы.",
+        "price": 799,
+        "attributes": {
+            "color": "Midnight",
+            "memory": "128 GB"
+        },
+        "stock": 15,
+        "image": "iphone13_midnight_128.png"
+    }
+]
